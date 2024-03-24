@@ -27,7 +27,7 @@ The dataset of WMT22 Metrics Shared Task extended with annotations of 28 types o
 .
 │  all.json
 '''
-Annotation results of all Chinese MWEs in the WMT22 zh-en source text (1,875 sentences),
+Annotation results of all Chinese MWEs in the WMT22 zh-en source text (1,875 sentences) (Freitag et al., 2022),
 with 'index' denoting the sentence index in the original data (starting from 0),
 'property' denoting the presence of MWEs# or NEs, items in 'catogory' denoting the specific
 type, position , and content of present MWEs.
@@ -36,14 +36,14 @@ type, position , and content of present MWEs.
 │  mtmeMWE.py  # Script of three statistical methods at both property and category level. Examples are provided in the file.
 │  
 ├─#dic  # Dictionary exploited for the annotation of MWE#.
-│      dic_CDI_35458.txt #
+│      dic_CDI_35458.txt  # A Comprehensive Dictionary of Chinese/English Idioms (Zhang and Zhang, 2014)
 │      dic_ID10M_dev_372.txt 
 │      dic_ID10M_test_80.txt
-│      dic_ID10M_train_1835.txt #
+│      dic_ID10M_train_1835.txt  # ID10M dataset (Tedeschi et al., 2022)
 │      dic_PARSEME_4827.json
-│      dic_PARSEME_4827.txt #
+│      dic_PARSEME_4827.txt  # PARSEME 1.3 (zh) (Savary et al., 2023)
 │      dic_total_39978.json
-│      dic_total_39978.txt #
+│      dic_total_39978.txt
 │      
 ├─category level  # Annotation results grouped by MWE categories.
 │      cat.json
@@ -254,4 +254,13 @@ type, position , and content of present MWEs.
                 QUARTZ_TuneReranking.txt
                 refA.txt
                 refB.txt
+```
+## References
+Markus Freitag, Ricardo Rei, Nitika Mathur, Chikiu Lo, Craig Stewart, Eleftherios Avramidis, Tom Kocmi, George Foster, Alon Lavie, and André F. T. Martins. 2022. [Results of WMT22 metrics shared task: Stop using BLEU - neural metrics are better and more robust](https://aclanthology.org/2022.wmt-1.2). In Proceedings of the Seventh Conference on Machine Translation (WMT), pages 46–68, Abu Dhabi, United Arab Emirates (Hybrid). Association for Computational Linguistics.  
 
+Agata Savary, Cherifa Ben Khelil, Carlos Ramisch, Voula Giouli, Verginica Barbu Mititelu, Najet Hadj Mohamed, Cvetana Krstev, Chaya Liebeskind, Hongzhi Xu, Sara Stymne, Tunga
+Güngör, Thomas Pickard, Bruno Guillaume, Eduard Bejček, Archna Bhatia, Marie Candito, Polona Gantar, Uxoa Iñurrieta, Albert Gatt, Jolanta Kovalevskaite, Timm Lichte, Nikola Ljubešić, Johanna Monti, Carla Parra Escartín, Mehrnoush Shamsfard, Ivelina Stoyanova, Veronika Vincze, and Abigail Walsh. 2023. [PARSEME corpus release 1.3](https://doi.org/10.18653/v1/2023.mwe-1.6). In Proceedings of the 19th Workshop on Multiword Expressions (MWE 2023), pages 24–35, Dubrovnik, Croatia. Association for Computational Linguistics.  
+
+Simone Tedeschi, Federico Martelli, and Roberto Navigli. 2022. [ID10M: Idiom identification in 10 languages](https://aclanthology.org/2022.findings-naacl.208). In Findings of the Association for Computational Linguistics: NAACL 2022, pages 2715–2726, Seattle, United States. Association for Computational Linguistics.  
+
+Xueying Zhang and Hui Zhang. 2014. [A Comprehensive Dictionary of Chinese/English Idioms with English/Chinese Translations](http://www.tup.com.cn/en/bookbrief.html?id=05130701). Tsinghua University Press, Beijing.
