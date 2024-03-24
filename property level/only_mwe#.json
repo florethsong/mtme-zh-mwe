@@ -1,0 +1,6230 @@
+﻿[
+    {
+        "index": 2,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 10,
+                "end": 13,
+                "value": "准备好",
+                "category": "VPC.semi"
+            },
+            {
+                "start": 0,
+                "end": 3,
+                "value": "又或者",
+                "category": "CON"
+            },
+            {
+                "start": 14,
+                "end": 18,
+                "value": "可不可以",
+                "category": "CON"
+            }
+        ]
+    },
+    {
+        "index": 5,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 61,
+                "end": 64,
+                "value": "创造出",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 8,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 8,
+                "end": 11,
+                "value": "一口气",
+                "category": "NID"
+            },
+            {
+                "start": 20,
+                "end": 22,
+                "value": "呼出",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 13,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 12,
+                "end": 14,
+                "value": "用起",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 16,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": [
+                    16,
+                    17
+                ],
+                "end": [
+                    26,
+                    28
+                ],
+                "value": [
+                    "跟",
+                    "有关"
+                ],
+                "category": "CON"
+            }
+        ]
+    },
+    {
+        "index": 19,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": [
+                    0,
+                    1
+                ],
+                "end": [
+                    3,
+                    6
+                ],
+                "value": [
+                    "在",
+                    "过程中"
+                ],
+                "category": "CON"
+            }
+        ]
+    },
+    {
+        "index": 24,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 2,
+                "end": 4,
+                "value": "站上",
+                "category": "VPC.semi"
+            },
+            {
+                "start": [
+                    21,
+                    23
+                ],
+                "end": [
+                    24,
+                    25
+                ],
+                "value": [
+                    "压缩",
+                    "出"
+                ],
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 26,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 19,
+                "end": 22,
+                "value": "结合在",
+                "category": "MVC"
+            },
+            {
+                "start": 0,
+                "end": 3,
+                "value": "压缩出",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 27,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 9,
+                "end": 12,
+                "value": "洗干净",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 31,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 5,
+                "end": 8,
+                "value": "补回给",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 38,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 16,
+                "end": 18,
+                "value": "写错",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 43,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": [
+                    3,
+                    4
+                ],
+                "end": [
+                    9,
+                    10
+                ],
+                "value": [
+                    "除",
+                    "外"
+                ],
+                "category": "CON"
+            }
+        ]
+    },
+    {
+        "index": 44,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": [
+                    12,
+                    13
+                ],
+                "end": [
+                    24,
+                    26
+                ],
+                "value": [
+                    "做",
+                    "救援"
+                ],
+                "category": "LVC.full"
+            }
+        ]
+    },
+    {
+        "index": 45,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 0,
+                "end": 4,
+                "value": "众所周知",
+                "category": "IDI"
+            },
+            {
+                "start": [
+                    5,
+                    6
+                ],
+                "end": [
+                    16,
+                    19
+                ],
+                "value": [
+                    "在",
+                    "过程中"
+                ],
+                "category": "CON"
+            },
+            {
+                "start": 6,
+                "end": 10,
+                "value": "事故发生",
+                "category": "LVC.full"
+            }
+        ]
+    },
+    {
+        "index": 49,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 7,
+                "end": 9,
+                "value": "倒下",
+                "category": "VPC.semi"
+            },
+            {
+                "start": 38,
+                "end": 40,
+                "value": "站在",
+                "category": "MVC"
+            },
+            {
+                "start": 42,
+                "end": 46,
+                "value": "一动不动",
+                "category": "IDI"
+            },
+            {
+                "start": 27,
+                "end": 31,
+                "value": "进行抢救",
+                "category": "LVC.full"
+            },
+            {
+                "start": 63,
+                "end": 67,
+                "value": "感到可怕",
+                "category": "LVC.full"
+            }
+        ]
+    },
+    {
+        "index": 54,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 26,
+                "end": 29,
+                "value": "掐人中",
+                "category": "VID"
+            },
+            {
+                "start": [
+                    5,
+                    7
+                ],
+                "end": [
+                    8,
+                    12
+                ],
+                "value": [
+                    "发生",
+                    "心脏骤停"
+                ],
+                "category": "LVC.full"
+            }
+        ]
+    },
+    {
+        "index": 57,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 0,
+                "end": 3,
+                "value": "说不定",
+                "category": "CON"
+            }
+        ]
+    },
+    {
+        "index": 64,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 11,
+                "end": 14,
+                "value": "写明白",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 67,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 16,
+                "end": 18,
+                "value": "看到",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 69,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 20,
+                "end": 24,
+                "value": "倒也不是",
+                "category": "CON"
+            },
+            {
+                "start": 8,
+                "end": 11,
+                "value": "是不是",
+                "category": "CON"
+            }
+        ]
+    },
+    {
+        "index": 72,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 27,
+                "end": 31,
+                "value": "难以名状",
+                "category": "IDI"
+            },
+            {
+                "start": 7,
+                "end": 11,
+                "value": "感到痛苦",
+                "category": "LVC.full"
+            }
+        ]
+    },
+    {
+        "index": 73,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 2,
+                "end": 4,
+                "value": "看完",
+                "category": "VPC.semi"
+            },
+            {
+                "start": 39,
+                "end": 42,
+                "value": "一坨屎",
+                "category": "NID"
+            }
+        ]
+    },
+    {
+        "index": 75,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 23,
+                "end": 27,
+                "value": "相依为命",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 79,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 7,
+                "end": 10,
+                "value": "没下文",
+                "category": "VID"
+            }
+        ]
+    },
+    {
+        "index": 80,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 16,
+                "end": 18,
+                "value": "拿到",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 81,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 5,
+                "end": 8,
+                "value": "小混混",
+                "category": "NID"
+            },
+            {
+                "start": 12,
+                "end": 16,
+                "value": "轻轻松松",
+                "category": "IDI"
+            },
+            {
+                "start": 2,
+                "end": 5,
+                "value": "飞车党",
+                "category": "NID"
+            },
+            {
+                "start": 22,
+                "end": 24,
+                "value": "做到",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 82,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": [
+                    25,
+                    26
+                ],
+                "end": [
+                    27,
+                    28
+                ],
+                "value": [
+                    "找",
+                    "到"
+                ],
+                "category": "VPC.semi"
+            },
+            {
+                "start": 12,
+                "end": 14,
+                "value": "停在",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 84,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 14,
+                "end": 17,
+                "value": "小混混",
+                "category": "NID"
+            },
+            {
+                "start": 17,
+                "end": 20,
+                "value": "飞车党",
+                "category": "NID"
+            }
+        ]
+    },
+    {
+        "index": 87,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 2,
+                "end": 6,
+                "value": "莫名其妙",
+                "category": "IDI"
+            },
+            {
+                "start": 9,
+                "end": 12,
+                "value": "充斥在",
+                "category": "MVC"
+            },
+            {
+                "start": 39,
+                "end": 43,
+                "value": "感到痛苦",
+                "category": "LVC.full"
+            }
+        ]
+    },
+    {
+        "index": 88,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 34,
+                "end": 38,
+                "value": "面目可憎",
+                "category": "IDI"
+            },
+            {
+                "start": 39,
+                "end": 42,
+                "value": "缝合怪",
+                "category": "NID"
+            },
+            {
+                "start": [
+                    0,
+                    1
+                ],
+                "end": [
+                    4,
+                    5
+                ],
+                "value": [
+                    "除",
+                    "外"
+                ],
+                "category": "CON"
+            }
+        ]
+    },
+    {
+        "index": 90,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 55,
+                "end": 57,
+                "value": "菜鸟",
+                "category": "NID"
+            }
+        ]
+    },
+    {
+        "index": 91,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 12,
+                "end": 16,
+                "value": "老老实实",
+                "category": "IDI"
+            },
+            {
+                "start": 36,
+                "end": 40,
+                "value": "恩怨纠葛",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 92,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 10,
+                "end": 13,
+                "value": "最起码",
+                "category": "CON"
+            }
+        ]
+    },
+    {
+        "index": 96,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 8,
+                "end": 11,
+                "value": "春节档",
+                "category": "NID"
+            },
+            {
+                "start": 21,
+                "end": 23,
+                "value": "添堵",
+                "category": "VID"
+            },
+            {
+                "start": 5,
+                "end": 8,
+                "value": "安排在",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 115,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 3,
+                "end": 5,
+                "value": "注明",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 139,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 5,
+                "end": 7,
+                "value": "设有",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 147,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 11,
+                "end": 14,
+                "value": "二合一",
+                "category": "NID"
+            },
+            {
+                "start": 37,
+                "end": 39,
+                "value": "达到",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 159,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": [
+                    22,
+                    24
+                ],
+                "end": [
+                    30,
+                    32
+                ],
+                "value": [
+                    "开展",
+                    "培训"
+                ],
+                "category": "LVC.full"
+            }
+        ]
+    },
+    {
+        "index": 165,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 9,
+                "end": 13,
+                "value": "由点到面",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 166,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 17,
+                "end": 19,
+                "value": "收到",
+                "category": "VPC.semi"
+            },
+            {
+                "start": 10,
+                "end": 12,
+                "value": "送达",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 167,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 12,
+                "end": 14,
+                "value": "挂在",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 170,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 2,
+                "end": 4,
+                "value": "弄错",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 171,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 15,
+                "end": 17,
+                "value": "割草",
+                "category": "VID"
+            }
+        ]
+    },
+    {
+        "index": 172,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 9,
+                "end": 12,
+                "value": "高大上",
+                "category": "NID"
+            },
+            {
+                "start": 20,
+                "end": 22,
+                "value": "小白",
+                "category": "NID"
+            },
+            {
+                "start": 37,
+                "end": 41,
+                "value": "两荤两素",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 177,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 0,
+                "end": 3,
+                "value": "炒出来",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 204,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 7,
+                "end": 9,
+                "value": "取走",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 228,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 0,
+                "end": 4,
+                "value": "益肝明目",
+                "category": "IDI"
+            },
+            {
+                "start": 5,
+                "end": 9,
+                "value": "滋补肝肾",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 229,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 24,
+                "end": 28,
+                "value": "益气生津",
+                "category": "IDI"
+            },
+            {
+                "start": 28,
+                "end": 32,
+                "value": "养血安神",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 236,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 18,
+                "end": 23,
+                "value": "口袋破大洞",
+                "category": "VID"
+            }
+        ]
+    },
+    {
+        "index": 240,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 3,
+                "end": 5,
+                "value": "收到",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 244,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 43,
+                "end": 47,
+                "value": "群防群治",
+                "category": "IDI"
+            },
+            {
+                "start": 58,
+                "end": 62,
+                "value": "无利可图",
+                "category": "IDI"
+            },
+            {
+                "start": 79,
+                "end": 83,
+                "value": "屡屡发生",
+                "category": "IDI"
+            },
+            {
+                "start": 5,
+                "end": 14,
+                "value": "没有买卖就没有杀害",
+                "category": "VID"
+            }
+        ]
+    },
+    {
+        "index": 246,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 21,
+                "end": 23,
+                "value": "找回",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 247,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 0,
+                "end": 2,
+                "value": "听闻",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 249,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 10,
+                "end": 12,
+                "value": "寻回",
+                "category": "VPC.semi"
+            },
+            {
+                "start": 21,
+                "end": 25,
+                "value": "人身安全",
+                "category": "NID"
+            }
+        ]
+    },
+    {
+        "index": 252,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 20,
+                "end": 24,
+                "value": "人身安全",
+                "category": "NID"
+            }
+        ]
+    },
+    {
+        "index": 253,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 38,
+                "end": 42,
+                "value": "众说纷纭",
+                "category": "IDI"
+            },
+            {
+                "start": 53,
+                "end": 57,
+                "value": "暂搁下来",
+                "category": "VPC.semi"
+            },
+            {
+                "start": 2,
+                "end": 6,
+                "value": "轻重缓急",
+                "category": "IDI"
+            },
+            {
+                "start": 73,
+                "end": 76,
+                "value": "等不得",
+                "category": "VID"
+            }
+        ]
+    },
+    {
+        "index": 256,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 27,
+                "end": 29,
+                "value": "寻回",
+                "category": "VPC.semi"
+            },
+            {
+                "start": 6,
+                "end": 8,
+                "value": "拿出",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 257,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 23,
+                "end": 25,
+                "value": "做好",
+                "category": "VPC.semi"
+            },
+            {
+                "start": [
+                    13,
+                    16
+                ],
+                "end": [
+                    22,
+                    13
+                ],
+                "value": [
+                    "运作起",
+                    "来"
+                ],
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 258,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 44,
+                "end": 48,
+                "value": "护幼扶弱",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 259,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": [
+                    22,
+                    23
+                ],
+                "end": [
+                    25,
+                    26
+                ],
+                "value": [
+                    "做",
+                    "好"
+                ],
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 260,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 10,
+                "end": 14,
+                "value": "一家三口",
+                "category": "NID"
+            }
+        ]
+    },
+    {
+        "index": 271,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 16,
+                "end": 20,
+                "value": "利欲熏心",
+                "category": "IDI"
+            },
+            {
+                "start": 51,
+                "end": 53,
+                "value": "陷入",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 294,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 6,
+                "end": 8,
+                "value": "称为",
+                "category": "MVC"
+            },
+            {
+                "start": 45,
+                "end": 47,
+                "value": "得到",
+                "category": "VPC.semi"
+            },
+            {
+                "start": 40,
+                "end": 42,
+                "value": "除去",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 296,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 38,
+                "end": 41,
+                "value": "纯天然",
+                "category": "NID"
+            }
+        ]
+    },
+    {
+        "index": 303,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 58,
+                "end": 60,
+                "value": "得到",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 326,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 80,
+                "end": 83,
+                "value": "赤裸裸",
+                "category": "NID"
+            },
+            {
+                "start": [
+                    42,
+                    44
+                ],
+                "end": [
+                    49,
+                    51
+                ],
+                "value": [
+                    "实现",
+                    "治理"
+                ],
+                "category": "LVC.full"
+            }
+        ]
+    },
+    {
+        "index": 347,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 5,
+                "end": 8,
+                "value": "上传给",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 354,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": [
+                    1,
+                    2
+                ],
+                "end": [
+                    3,
+                    4
+                ],
+                "value": [
+                    "送",
+                    "到"
+                ],
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 356,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 6,
+                "end": 8,
+                "value": "收到",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 357,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 5,
+                "end": 7,
+                "value": "送到",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 360,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 12,
+                "end": 14,
+                "value": "送到",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 363,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 5,
+                "end": 7,
+                "value": "送来",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 364,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 25,
+                "end": 28,
+                "value": "差不多",
+                "category": "NID"
+            },
+            {
+                "start": [
+                    13,
+                    14
+                ],
+                "end": [
+                    16,
+                    18
+                ],
+                "value": [
+                    "坚持",
+                    "下去"
+                ],
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 366,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 8,
+                "end": 10,
+                "value": "打到",
+                "category": "MVC"
+            },
+            {
+                "start": [
+                    23,
+                    24
+                ],
+                "end": [
+                    25,
+                    26
+                ],
+                "value": [
+                    "顶",
+                    "住"
+                ],
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 370,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 16,
+                "end": 18,
+                "value": "鸡肋",
+                "category": "NID"
+            }
+        ]
+    },
+    {
+        "index": 375,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 0,
+                "end": 3,
+                "value": "就是说",
+                "category": "CON"
+            }
+        ]
+    },
+    {
+        "index": 376,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 0,
+                "end": 3,
+                "value": "接下来",
+                "category": "CON"
+            }
+        ]
+    },
+    {
+        "index": 377,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 14,
+                "end": 16,
+                "value": "送来",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 378,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 10,
+                "end": 14,
+                "value": "无缘无故",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 379,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": [
+                    1,
+                    2
+                ],
+                "end": [
+                    3,
+                    4
+                ],
+                "value": [
+                    "下",
+                    "单"
+                ],
+                "category": "ION"
+            }
+        ]
+    },
+    {
+        "index": 383,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 81,
+                "end": 85,
+                "value": "一专多能",
+                "category": "IDI"
+            },
+            {
+                "start": 10,
+                "end": 13,
+                "value": "音体美",
+                "category": "NID"
+            },
+            {
+                "start": 86,
+                "end": 89,
+                "value": "音体美",
+                "category": "NID"
+            },
+            {
+                "start": 98,
+                "end": 101,
+                "value": "音体美",
+                "category": "NID"
+            }
+        ]
+    },
+    {
+        "index": 387,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 1,
+                "end": 3,
+                "value": "找到",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 398,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 14,
+                "end": 16,
+                "value": "洗掉",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 402,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 14,
+                "end": 16,
+                "value": "送到",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 407,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 17,
+                "end": 19,
+                "value": "送到",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 410,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 30,
+                "end": 32,
+                "value": "盖住",
+                "category": "VPC.semi"
+            },
+            {
+                "start": 20,
+                "end": 23,
+                "value": "差不多",
+                "category": "NID"
+            }
+        ]
+    },
+    {
+        "index": 411,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 12,
+                "end": 16,
+                "value": "显露出来",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 414,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 26,
+                "end": 30,
+                "value": "深有体会",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 415,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 0,
+                "end": 2,
+                "value": "穿上",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 417,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": [
+                    0,
+                    1
+                ],
+                "end": [
+                    4,
+                    5
+                ],
+                "value": [
+                    "越",
+                    "越"
+                ],
+                "category": "CON"
+            }
+        ]
+    },
+    {
+        "index": 418,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 18,
+                "end": 20,
+                "value": "得到",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 420,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 25,
+                "end": 27,
+                "value": "塞在",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 425,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 3,
+                "end": 5,
+                "value": "遮住",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 428,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 9,
+                "end": 11,
+                "value": "穿出",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 429,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 4,
+                "end": 7,
+                "value": "掌握好",
+                "category": "VPC.semi"
+            },
+            {
+                "start": 26,
+                "end": 30,
+                "value": "万众瞩目",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 436,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 30,
+                "end": 33,
+                "value": "可持续",
+                "category": "NID"
+            },
+            {
+                "start": 36,
+                "end": 40,
+                "value": "进行创新",
+                "category": "LVC.full"
+            },
+            {
+                "start": 43,
+                "end": 45,
+                "value": "看到",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 445,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 1,
+                "end": 3,
+                "value": "饿死",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 447,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": [
+                    0,
+                    1
+                ],
+                "end": [
+                    2,
+                    3
+                ],
+                "value": [
+                    "接",
+                    "到"
+                ],
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 448,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 12,
+                "end": 15,
+                "value": "用不着",
+                "category": "CON"
+            }
+        ]
+    },
+    {
+        "index": 459,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": [
+                    3,
+                    5
+                ],
+                "end": [
+                    7,
+                    9
+                ],
+                "value": [
+                    "引发",
+                    "热议"
+                ],
+                "category": "LVC.cause"
+            }
+        ]
+    },
+    {
+        "index": 463,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 6,
+                "end": 10,
+                "value": "引发争议",
+                "category": "LVC.cause"
+            }
+        ]
+    },
+    {
+        "index": 464,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 10,
+                "end": 13,
+                "value": "博眼球",
+                "category": "VID"
+            },
+            {
+                "start": 31,
+                "end": 35,
+                "value": "表示同情",
+                "category": "LVC.full"
+            }
+        ]
+    },
+    {
+        "index": 473,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 18,
+                "end": 21,
+                "value": "博眼球",
+                "category": "VID"
+            }
+        ]
+    },
+    {
+        "index": 481,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 15,
+                "end": 17,
+                "value": "给力",
+                "category": "VID"
+            }
+        ]
+    },
+    {
+        "index": 482,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 30,
+                "end": 33,
+                "value": "玩游戏",
+                "category": "LVC.full"
+            }
+        ]
+    },
+    {
+        "index": 492,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 0,
+                "end": 2,
+                "value": "买给",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 494,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 4,
+                "end": 7,
+                "value": "玩游戏",
+                "category": "LVC.full"
+            },
+            {
+                "start": [
+                    11,
+                    12
+                ],
+                "end": [
+                    13,
+                    14
+                ],
+                "value": [
+                    "真",
+                    "香"
+                ],
+                "category": "NID"
+            }
+        ]
+    },
+    {
+        "index": 500,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": [
+                    1,
+                    3
+                ],
+                "end": [
+                    5,
+                    7
+                ],
+                "value": [
+                    "从事",
+                    "管理"
+                ],
+                "category": "LVC.full"
+            }
+        ]
+    },
+    {
+        "index": 504,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 18,
+                "end": 22,
+                "value": "畅通无阻",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 505,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 77,
+                "end": 81,
+                "value": "一头雾水",
+                "category": "IDI"
+            },
+            {
+                "start": [
+                    63,
+                    65
+                ],
+                "end": [
+                    67,
+                    69
+                ],
+                "value": [
+                    "进行",
+                    "管理"
+                ],
+                "category": "LVC.full"
+            }
+        ]
+    },
+    {
+        "index": 506,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 112,
+                "end": 115,
+                "value": "老油条",
+                "category": "NID"
+            },
+            {
+                "start": 93,
+                "end": 97,
+                "value": "一拖再拖",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 509,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 36,
+                "end": 38,
+                "value": "带来",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 516,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 62,
+                "end": 66,
+                "value": "冷静下来",
+                "category": "VPC.semi"
+            },
+            {
+                "start": 17,
+                "end": 19,
+                "value": "带货",
+                "category": "VID"
+            },
+            {
+                "start": 10,
+                "end": 14,
+                "value": "抓人眼球",
+                "category": "IDI"
+            },
+            {
+                "start": 0,
+                "end": 4,
+                "value": "花样繁多",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 519,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 36,
+                "end": 39,
+                "value": "体现出",
+                "category": "VPC.semi"
+            },
+            {
+                "start": 0,
+                "end": 3,
+                "value": "总体上",
+                "category": "CON"
+            }
+        ]
+    },
+    {
+        "index": 524,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 11,
+                "end": 15,
+                "value": "量力而为",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 525,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 10,
+                "end": 13,
+                "value": "记录到",
+                "category": "MVC"
+            },
+            {
+                "start": [
+                    37,
+                    39
+                ],
+                "end": [
+                    41,
+                    43
+                ],
+                "value": [
+                    "造成",
+                    "影响"
+                ],
+                "category": "LVC.cause"
+            }
+        ]
+    },
+    {
+        "index": 526,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 0,
+                "end": 4,
+                "value": "与此同时",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 532,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": [
+                    34,
+                    35
+                ],
+                "end": [
+                    37,
+                    38
+                ],
+                "value": [
+                    "下",
+                    "单"
+                ],
+                "category": "ION"
+            },
+            {
+                "start": 0,
+                "end": 3,
+                "value": "调查完",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 558,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 9,
+                "end": 11,
+                "value": "带来",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 565,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 7,
+                "end": 9,
+                "value": "去到",
+                "category": "MVC"
+            },
+            {
+                "start": 2,
+                "end": 6,
+                "value": "备受瞩目",
+                "category": "VID"
+            }
+        ]
+    },
+    {
+        "index": 569,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 5,
+                "end": 7,
+                "value": "停在",
+                "category": "MVC"
+            },
+            {
+                "start": 27,
+                "end": 29,
+                "value": "敲到",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 579,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": [
+                    13,
+                    14
+                ],
+                "end": [
+                    16,
+                    19
+                ],
+                "value": [
+                    "在",
+                    "过程中"
+                ],
+                "category": "CON"
+            }
+        ]
+    },
+    {
+        "index": 580,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 39,
+                "end": 43,
+                "value": "至关重要",
+                "category": "IDI"
+            },
+            {
+                "start": 0,
+                "end": 4,
+                "value": "从古至今",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 589,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 34,
+                "end": 38,
+                "value": "同频共振",
+                "category": "VID"
+            },
+            {
+                "start": [
+                    0,
+                    1
+                ],
+                "end": [
+                    3,
+                    6
+                ],
+                "value": [
+                    "在",
+                    "过程中"
+                ],
+                "category": "CON"
+            }
+        ]
+    },
+    {
+        "index": 592,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 40,
+                "end": 43,
+                "value": "表现为",
+                "category": "MVC"
+            },
+            {
+                "start": 145,
+                "end": 148,
+                "value": "表现为",
+                "category": "MVC"
+            },
+            {
+                "start": 153,
+                "end": 157,
+                "value": "革故鼎新",
+                "category": "IDI"
+            },
+            {
+                "start": 7,
+                "end": 11,
+                "value": "海纳江河",
+                "category": "IDI"
+            },
+            {
+                "start": 63,
+                "end": 67,
+                "value": "启真厚德",
+                "category": "IDI"
+            },
+            {
+                "start": 72,
+                "end": 76,
+                "value": "求真至善",
+                "category": "IDI"
+            },
+            {
+                "start": 27,
+                "end": 35,
+                "value": "天下英才为我所用",
+                "category": "VID"
+            },
+            {
+                "start": 113,
+                "end": 117,
+                "value": "开物前民",
+                "category": "IDI"
+            },
+            {
+                "start": 162,
+                "end": 166,
+                "value": "树我邦国",
+                "category": "IDI"
+            },
+            {
+                "start": 192,
+                "end": 196,
+                "value": "同荣共辱",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 594,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 1,
+                "end": 7,
+                "value": "聪者听于无声",
+                "category": "VID"
+            },
+            {
+                "start": 8,
+                "end": 14,
+                "value": "明者见于未形",
+                "category": "VID"
+            }
+        ]
+    },
+    {
+        "index": 596,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": [
+                    38,
+                    40
+                ],
+                "end": [
+                    47,
+                    49
+                ],
+                "value": [
+                    "实现",
+                    "振兴"
+                ],
+                "category": "LVC.cause"
+            }
+        ]
+    },
+    {
+        "index": 607,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 3,
+                "end": 5,
+                "value": "收到",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 616,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 3,
+                "end": 6,
+                "value": "打电话",
+                "category": "VID"
+            },
+            {
+                "start": 33,
+                "end": 35,
+                "value": "弃掉",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 619,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 7,
+                "end": 10,
+                "value": "打电话",
+                "category": "VID"
+            }
+        ]
+    },
+    {
+        "index": 628,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": [
+                    23,
+                    25
+                ],
+                "end": [
+                    27,
+                    29
+                ],
+                "value": [
+                    "给予",
+                    "支持"
+                ],
+                "category": "LVC.full"
+            }
+        ]
+    },
+    {
+        "index": 636,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 0,
+                "end": 4,
+                "value": "简而言之",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 651,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 26,
+                "end": 30,
+                "value": "化繁为简",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 657,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 2,
+                "end": 4,
+                "value": "看到",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 658,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 17,
+                "end": 19,
+                "value": "收到",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 659,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 12,
+                "end": 14,
+                "value": "收到",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 660,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 8,
+                "end": 11,
+                "value": "联系到",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 663,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 16,
+                "end": 18,
+                "value": "冒出",
+                "category": "VPC.semi"
+            },
+            {
+                "start": 6,
+                "end": 8,
+                "value": "出圈",
+                "category": "VID"
+            }
+        ]
+    },
+    {
+        "index": 674,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 31,
+                "end": 33,
+                "value": "做对",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 687,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 14,
+                "end": 16,
+                "value": "变成",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 691,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 4,
+                "end": 6,
+                "value": "送到",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 692,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 4,
+                "end": 6,
+                "value": "送到",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 694,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 18,
+                "end": 20,
+                "value": "遇到",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 710,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 5,
+                "end": 7,
+                "value": "收到",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 711,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 21,
+                "end": 25,
+                "value": "进行学习",
+                "category": "LVC.full"
+            }
+        ]
+    },
+    {
+        "index": 721,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 12,
+                "end": 16,
+                "value": "首屈一指",
+                "category": "IDI"
+            },
+            {
+                "start": 25,
+                "end": 29,
+                "value": "那叫一个",
+                "category": "CON"
+            }
+        ]
+    },
+    {
+        "index": 723,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 39,
+                "end": 42,
+                "value": "介绍给",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 724,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 15,
+                "end": 19,
+                "value": "独一无二",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 726,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 10,
+                "end": 13,
+                "value": "体力活",
+                "category": "NID"
+            }
+        ]
+    },
+    {
+        "index": 727,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 32,
+                "end": 36,
+                "value": "幽默风趣",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 728,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 12,
+                "end": 16,
+                "value": "有生之年",
+                "category": "IDI"
+            },
+            {
+                "start": 18,
+                "end": 20,
+                "value": "看到",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 730,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 4,
+                "end": 6,
+                "value": "赚到",
+                "category": "VPC.semi"
+            },
+            {
+                "start": 13,
+                "end": 17,
+                "value": "和和美美",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 736,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 16,
+                "end": 18,
+                "value": "认出",
+                "category": "VPC.semi"
+            },
+            {
+                "start": 0,
+                "end": 2,
+                "value": "看到",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 738,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 26,
+                "end": 28,
+                "value": "遇到",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 739,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 19,
+                "end": 21,
+                "value": "照骗",
+                "category": "VID"
+            },
+            {
+                "start": 0,
+                "end": 2,
+                "value": "看到",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 744,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": [
+                    11,
+                    12
+                ],
+                "end": [
+                    23,
+                    26
+                ],
+                "value": [
+                    "在",
+                    "过程中"
+                ],
+                "category": "CON"
+            }
+        ]
+    },
+    {
+        "index": 755,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 4,
+                "end": 6,
+                "value": "查看",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 764,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 18,
+                "end": 21,
+                "value": "准备好",
+                "category": "VPC.semi"
+            },
+            {
+                "start": 4,
+                "end": 6,
+                "value": "看中",
+                "category": "VPC.semi"
+            },
+            {
+                "start": 0,
+                "end": 4,
+                "value": "好不容易",
+                "category": "CON"
+            },
+            {
+                "start": 26,
+                "end": 30,
+                "value": "临门一脚",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 767,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 8,
+                "end": 12,
+                "value": "提起上诉",
+                "category": "LVC.full"
+            }
+        ]
+    },
+    {
+        "index": 769,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 14,
+                "end": 16,
+                "value": "尽到",
+                "category": "VPC.semi"
+            },
+            {
+                "start": [
+                    7,
+                    8
+                ],
+                "end": [
+                    10,
+                    13
+                ],
+                "value": [
+                    "在",
+                    "过程中"
+                ],
+                "category": "CON"
+            }
+        ]
+    },
+    {
+        "index": 781,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 9,
+                "end": 12,
+                "value": "想当然",
+                "category": "VID"
+            },
+            {
+                "start": [
+                    35,
+                    36
+                ],
+                "end": [
+                    37,
+                    39
+                ],
+                "value": [
+                    "在",
+                    "看来"
+                ],
+                "category": "CON"
+            }
+        ]
+    },
+    {
+        "index": 786,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 7,
+                "end": 9,
+                "value": "送错",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 788,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 7,
+                "end": 12,
+                "value": "中规中矩",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 791,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 23,
+                "end": 27,
+                "value": "一如既往",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 794,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 10,
+                "end": 12,
+                "value": "吃上",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 796,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 21,
+                "end": 25,
+                "value": "一如既往",
+                "category": "IDI"
+            },
+            {
+                "start": 0,
+                "end": 4,
+                "value": "难得一见",
+                "category": "IDI"
+            },
+            {
+                "start": 17,
+                "end": 20,
+                "value": "没的说",
+                "category": "VID"
+            }
+        ]
+    },
+    {
+        "index": 801,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 32,
+                "end": 34,
+                "value": "脑补",
+                "category": "VID"
+            }
+        ]
+    },
+    {
+        "index": 812,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": [
+                    34,
+                    35
+                ],
+                "end": [
+                    45,
+                    47
+                ],
+                "value": [
+                    "起到",
+                    "效果"
+                ],
+                "category": "CON"
+            },
+            {
+                "start": 24,
+                "end": 26,
+                "value": "带来",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 818,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 3,
+                "end": 7,
+                "value": "长期以来",
+                "category": "CON"
+            },
+            {
+                "start": 17,
+                "end": 21,
+                "value": "热门话题",
+                "category": "NID"
+            }
+        ]
+    },
+    {
+        "index": 819,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 39,
+                "end": 43,
+                "value": "千差万别",
+                "category": "IDI"
+            },
+            {
+                "start": 19,
+                "end": 23,
+                "value": "各不相同",
+                "category": "IDI"
+            },
+            {
+                "start": 10,
+                "end": 14,
+                "value": "五湖四海",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 820,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 25,
+                "end": 29,
+                "value": "在所难免",
+                "category": "IDI"
+            },
+            {
+                "start": 13,
+                "end": 17,
+                "value": "进行考核",
+                "category": "LVC.full"
+            }
+        ]
+    },
+    {
+        "index": 821,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 34,
+                "end": 38,
+                "value": "截然不同",
+                "category": "IDI"
+            },
+            {
+                "start": [
+                    29,
+                    31
+                ],
+                "end": [
+                    39,
+                    41
+                ],
+                "value": [
+                    "造成",
+                    "感受"
+                ],
+                "category": "LVC.cause"
+            }
+        ]
+    },
+    {
+        "index": 822,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 34,
+                "end": 38,
+                "value": "事半功倍",
+                "category": "IDI"
+            },
+            {
+                "start": 32,
+                "end": 34,
+                "value": "达到",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 823,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 0,
+                "end": 4,
+                "value": "如此一来",
+                "category": "CON"
+            },
+            {
+                "start": 9,
+                "end": 11,
+                "value": "学渣",
+                "category": "NID"
+            },
+            {
+                "start": 33,
+                "end": 35,
+                "value": "学霸",
+                "category": "NID"
+            }
+        ]
+    },
+    {
+        "index": 826,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 78,
+                "end": 82,
+                "value": "高抬贵手",
+                "category": "IDI"
+            },
+            {
+                "start": 46,
+                "end": 48,
+                "value": "得到",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 827,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": [
+                    0,
+                    1
+                ],
+                "end": [
+                    3,
+                    5
+                ],
+                "value": [
+                    "在",
+                    "看来"
+                ],
+                "category": "CON"
+            }
+        ]
+    },
+    {
+        "index": 829,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 0,
+                "end": 4,
+                "value": "毋庸置疑",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 833,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 12,
+                "end": 14,
+                "value": "组成",
+                "category": "MVC"
+            },
+            {
+                "start": 28,
+                "end": 30,
+                "value": "组成",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 835,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 33,
+                "end": 37,
+                "value": "长此以往",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 837,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 11,
+                "end": 15,
+                "value": "开展研讨",
+                "category": "LVC.full"
+            },
+            {
+                "start": 27,
+                "end": 29,
+                "value": "制定",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 838,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 133,
+                "end": 137,
+                "value": "各得其所",
+                "category": "IDI"
+            },
+            {
+                "start": 89,
+                "end": 93,
+                "value": "两头吃透",
+                "category": "IDI"
+            },
+            {
+                "start": 71,
+                "end": 73,
+                "value": "吃透",
+                "category": "VPC.semi"
+            },
+            {
+                "start": 80,
+                "end": 82,
+                "value": "吃透",
+                "category": "VPC.semi"
+            },
+            {
+                "start": 46,
+                "end": 52,
+                "value": "功夫贵在日常",
+                "category": "NID"
+            },
+            {
+                "start": 125,
+                "end": 127,
+                "value": "学霸",
+                "category": "NID"
+            },
+            {
+                "start": 130,
+                "end": 132,
+                "value": "学渣",
+                "category": "NID"
+            }
+        ]
+    },
+    {
+        "index": 839,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 15,
+                "end": 17,
+                "value": "改为",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 841,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 7,
+                "end": 9,
+                "value": "送完",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 842,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": [
+                    0,
+                    1
+                ],
+                "end": [
+                    2,
+                    3
+                ],
+                "value": [
+                    "拉",
+                    "到"
+                ],
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 861,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": [
+                    5,
+                    6
+                ],
+                "end": [
+                    7,
+                    8
+                ],
+                "value": [
+                    "找",
+                    "到"
+                ],
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 862,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": [
+                    0,
+                    1
+                ],
+                "end": [
+                    2,
+                    3
+                ],
+                "value": [
+                    "找",
+                    "到"
+                ],
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 881,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 3,
+                "end": 5,
+                "value": "退回",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 886,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": [
+                    20,
+                    21
+                ],
+                "end": [
+                    22,
+                    23
+                ],
+                "value": [
+                    "越",
+                    "越"
+                ],
+                "category": "CON"
+            },
+            {
+                "start": [
+                    27,
+                    28
+                ],
+                "end": [
+                    29,
+                    31
+                ],
+                "value": [
+                    "跑",
+                    "起来"
+                ],
+                "category": "VPC.semi"
+            },
+            {
+                "start": 1,
+                "end": 3,
+                "value": "走在",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 888,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 25,
+                "end": 28,
+                "value": "真人秀",
+                "category": "NID"
+            }
+        ]
+    },
+    {
+        "index": 892,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 1,
+                "end": 5,
+                "value": "稀里糊涂",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 893,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 15,
+                "end": 17,
+                "value": "签下",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 894,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 8,
+                "end": 11,
+                "value": "真人秀",
+                "category": "NID"
+            },
+            {
+                "start": 12,
+                "end": 14,
+                "value": "分为",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 896,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 4,
+                "end": 7,
+                "value": "进入到",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 898,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 8,
+                "end": 10,
+                "value": "看到",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 910,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 9,
+                "end": 11,
+                "value": "前往",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 913,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 1,
+                "end": 4,
+                "value": "是不是",
+                "category": "CON"
+            }
+        ]
+    },
+    {
+        "index": 916,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 11,
+                "end": 14,
+                "value": "准备好",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 935,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": [
+                    1,
+                    2
+                ],
+                "end": [
+                    3,
+                    4
+                ],
+                "value": [
+                    "看",
+                    "到"
+                ],
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 941,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 9,
+                "end": 11,
+                "value": "打开",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 948,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 15,
+                "end": 18,
+                "value": "杠杠的",
+                "category": "NID"
+            }
+        ]
+    },
+    {
+        "index": 952,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 23,
+                "end": 25,
+                "value": "开出",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 958,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": [
+                    40,
+                    41
+                ],
+                "end": [
+                    47,
+                    48
+                ],
+                "value": [
+                    "越",
+                    "越"
+                ],
+                "category": "CON"
+            }
+        ]
+    },
+    {
+        "index": 960,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 44,
+                "end": 48,
+                "value": "物廉价美",
+                "category": "IDI"
+            },
+            {
+                "start": 2,
+                "end": 6,
+                "value": "打字起来",
+                "category": "VPC.semi"
+            },
+            {
+                "start": 65,
+                "end": 68,
+                "value": "做评价",
+                "category": "LVC.full"
+            }
+        ]
+    },
+    {
+        "index": 969,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 44,
+                "end": 48,
+                "value": "进行考查",
+                "category": "LVC.full"
+            }
+        ]
+    },
+    {
+        "index": 972,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 1,
+                "end": 3,
+                "value": "收到",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 974,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": [
+                    2,
+                    3
+                ],
+                "end": [
+                    4,
+                    5
+                ],
+                "value": [
+                    "送",
+                    "到"
+                ],
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1011,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 0,
+                "end": 3,
+                "value": "是不是",
+                "category": "CON"
+            }
+        ]
+    },
+    {
+        "index": 1021,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 6,
+                "end": 8,
+                "value": "提出",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1029,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": [
+                    33,
+                    35
+                ],
+                "end": [
+                    39,
+                    41
+                ],
+                "value": [
+                    "造成",
+                    "变亮"
+                ],
+                "category": "LVC.cause"
+            }
+        ]
+    },
+    {
+        "index": 1032,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 58,
+                "end": 62,
+                "value": "进行说明",
+                "category": "LVC.full"
+            },
+            {
+                "start": 83,
+                "end": 86,
+                "value": "不在乎",
+                "category": "VID"
+            }
+        ]
+    },
+    {
+        "index": 1034,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 17,
+                "end": 19,
+                "value": "带有",
+                "category": "MVC"
+            },
+            {
+                "start": 32,
+                "end": 34,
+                "value": "之所以",
+                "category": "CON"
+            }
+        ]
+    },
+    {
+        "index": 1036,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 2,
+                "end": 6,
+                "value": "一丁点儿",
+                "category": "NID"
+            }
+        ]
+    },
+    {
+        "index": 1037,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": [
+                    38,
+                    39
+                ],
+                "end": [
+                    40,
+                    41
+                ],
+                "value": [
+                    "做",
+                    "到"
+                ],
+                "category": "VPC.semi"
+            },
+            {
+                "start": 31,
+                "end": 33,
+                "value": "售出",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1039,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 11,
+                "end": 13,
+                "value": "售出",
+                "category": "VPC.semi"
+            },
+            {
+                "start": 0,
+                "end": 2,
+                "value": "看好",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1043,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 43,
+                "end": 45,
+                "value": "看清",
+                "category": "VPC.semi"
+            },
+            {
+                "start": 48,
+                "end": 52,
+                "value": "考虑清楚",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1045,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 39,
+                "end": 41,
+                "value": "收到",
+                "category": "VPC.semi"
+            },
+            {
+                "start": 62,
+                "end": 66,
+                "value": "考虑清楚",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1047,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 4,
+                "end": 6,
+                "value": "发出",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1057,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": [
+                    16,
+                    17
+                ],
+                "end": [
+                    18,
+                    19
+                ],
+                "value": [
+                    "越",
+                    "越"
+                ],
+                "category": "CON"
+            }
+        ]
+    },
+    {
+        "index": 1060,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 0,
+                "end": 3,
+                "value": "无意中",
+                "category": "NID"
+            },
+            {
+                "start": 3,
+                "end": 5,
+                "value": "看到",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1062,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 17,
+                "end": 21,
+                "value": "一模一样",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 1070,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 14,
+                "end": 17,
+                "value": "考虑到",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1074,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 2,
+                "end": 6,
+                "value": "可想而知",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 1083,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": [
+                    5,
+                    6
+                ],
+                "end": [
+                    7,
+                    9
+                ],
+                "value": [
+                    "洒",
+                    "出来"
+                ],
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1084,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 17,
+                "end": 20,
+                "value": "补送来",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 1087,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 2,
+                "end": 5,
+                "value": "打电话",
+                "category": "VID"
+            }
+        ]
+    },
+    {
+        "index": 1096,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 4,
+                "end": 6,
+                "value": "等到",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 1097,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 7,
+                "end": 11,
+                "value": "可不可以",
+                "category": "CON"
+            },
+            {
+                "start": 11,
+                "end": 13,
+                "value": "退回",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1102,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 8,
+                "end": 11,
+                "value": "感受到",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1104,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 3,
+                "end": 6,
+                "value": "一下子",
+                "category": "NID"
+            },
+            {
+                "start": 0,
+                "end": 3,
+                "value": "等于说",
+                "category": "CON"
+            },
+            {
+                "start": 12,
+                "end": 14,
+                "value": "做到",
+                "category": "VPC.semi"
+            },
+            {
+                "start": 6,
+                "end": 8,
+                "value": "越过",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1108,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 43,
+                "end": 47,
+                "value": "自欺欺人",
+                "category": "IDI"
+            },
+            {
+                "start": 48,
+                "end": 52,
+                "value": "对牛弹琴",
+                "category": "IDI"
+            },
+            {
+                "start": 7,
+                "end": 11,
+                "value": "因循守旧",
+                "category": "IDI"
+            },
+            {
+                "start": 2,
+                "end": 6,
+                "value": "墨守成规",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 1111,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 40,
+                "end": 44,
+                "value": "望门兴叹",
+                "category": "VID"
+            }
+        ]
+    },
+    {
+        "index": 1112,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 25,
+                "end": 27,
+                "value": "走上",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1115,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 19,
+                "end": 21,
+                "value": "做到",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1117,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 0,
+                "end": 4,
+                "value": "总而言之",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 1121,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 2,
+                "end": 4,
+                "value": "送到",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 1122,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 5,
+                "end": 7,
+                "value": "送到",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 1144,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 10,
+                "end": 12,
+                "value": "拍出",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1148,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 20,
+                "end": 22,
+                "value": "收到",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1150,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 10,
+                "end": 12,
+                "value": "装到",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 1151,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 8,
+                "end": 10,
+                "value": "装在",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 1152,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 3,
+                "end": 5,
+                "value": "看到",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1153,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 14,
+                "end": 16,
+                "value": "拿走",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1167,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 46,
+                "end": 49,
+                "value": "使绊子",
+                "category": "VID"
+            }
+        ]
+    },
+    {
+        "index": 1168,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 9,
+                "end": 11,
+                "value": "看出",
+                "category": "VPC.semi"
+            },
+            {
+                "start": 34,
+                "end": 37,
+                "value": "找借口",
+                "category": "VID"
+            }
+        ]
+    },
+    {
+        "index": 1178,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 4,
+                "end": 8,
+                "value": "百忙之中",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 1189,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 23,
+                "end": 25,
+                "value": "排除",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 1199,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 0,
+                "end": 5,
+                "value": "风水轮流转",
+                "category": "VID"
+            }
+        ]
+    },
+    {
+        "index": 1200,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 21,
+                "end": 25,
+                "value": "一年四季",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 1205,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 12,
+                "end": 15,
+                "value": "是不是",
+                "category": "CON"
+            }
+        ]
+    },
+    {
+        "index": 1207,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 0,
+                "end": 4,
+                "value": "形而上学",
+                "category": "IDI"
+            },
+            {
+                "start": 28,
+                "end": 30,
+                "value": "得到",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1208,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 0,
+                "end": 4,
+                "value": "形而上学",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 1210,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 0,
+                "end": 4,
+                "value": "形而上学",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 1212,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 0,
+                "end": 4,
+                "value": "形而上学",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 1213,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 37,
+                "end": 39,
+                "value": "提出",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1214,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 11,
+                "end": 15,
+                "value": "不置一词",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 1218,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 31,
+                "end": 34,
+                "value": "定义为",
+                "category": "MVC"
+            },
+            {
+                "start": [
+                    11,
+                    13
+                ],
+                "end": [
+                    16,
+                    21
+                ],
+                "value": [
+                    "进行",
+                    "思考和研究"
+                ],
+                "category": "LVC.full"
+            }
+        ]
+    },
+    {
+        "index": 1219,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 54,
+                "end": 56,
+                "value": "给出",
+                "category": "VPC.semi"
+            },
+            {
+                "start": 2,
+                "end": 4,
+                "value": "分为",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 1220,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 83,
+                "end": 86,
+                "value": "观察到",
+                "category": "VPC.semi"
+            },
+            {
+                "start": 68,
+                "end": 70,
+                "value": "搜集",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 1221,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 49,
+                "end": 52,
+                "value": "观察到",
+                "category": "VPC.semi"
+            },
+            {
+                "start": [
+                    43,
+                    45
+                ],
+                "end": [
+                    54,
+                    56
+                ],
+                "value": [
+                    "做出",
+                    "抉择"
+                ],
+                "category": "LVC.full"
+            }
+        ]
+    },
+    {
+        "index": 1229,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 11,
+                "end": 13,
+                "value": "收到",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1238,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 19,
+                "end": 22,
+                "value": "叫外卖",
+                "category": "VID"
+            }
+        ]
+    },
+    {
+        "index": 1251,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 9,
+                "end": 11,
+                "value": "送达",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1267,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 16,
+                "end": 18,
+                "value": "通入",
+                "category": "VPC.semi"
+            },
+            {
+                "start": [
+                    21,
+                    23
+                ],
+                "end": [
+                    25,
+                    27
+                ],
+                "value": [
+                    "发生",
+                    "反应"
+                ],
+                "category": "LVC.full"
+            }
+        ]
+    },
+    {
+        "index": 1268,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 14,
+                "end": 18,
+                "value": "进行进样",
+                "category": "LVC.full"
+            },
+            {
+                "start": 23,
+                "end": 27,
+                "value": "发生漏液",
+                "category": "LVC.full"
+            }
+        ]
+    },
+    {
+        "index": 1270,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": [
+                    42,
+                    43
+                ],
+                "end": [
+                    51,
+                    54
+                ],
+                "value": [
+                    "在",
+                    "过程中"
+                ],
+                "category": "CON"
+            }
+        ]
+    },
+    {
+        "index": 1271,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 26,
+                "end": 30,
+                "value": "引起漏液",
+                "category": "LVC.cause"
+            }
+        ]
+    },
+    {
+        "index": 1272,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 35,
+                "end": 38,
+                "value": "设置在",
+                "category": "MVC"
+            },
+            {
+                "start": 56,
+                "end": 59,
+                "value": "设置在",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 1276,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": [
+                    15,
+                    17
+                ],
+                "end": [
+                    20,
+                    22
+                ],
+                "value": [
+                    "造成",
+                    "损坏"
+                ],
+                "category": "LVC.cause"
+            }
+        ]
+    },
+    {
+        "index": 1285,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 6,
+                "end": 8,
+                "value": "送到",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 1293,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 2,
+                "end": 4,
+                "value": "收到",
+                "category": "VPC.semi"
+            },
+            {
+                "start": 31,
+                "end": 34,
+                "value": "是不是",
+                "category": "CON"
+            }
+        ]
+    },
+    {
+        "index": 1294,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 19,
+                "end": 24,
+                "value": "是不是",
+                "category": "CON"
+            }
+        ]
+    },
+    {
+        "index": 1295,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 2,
+                "end": 4,
+                "value": "收到",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1296,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 13,
+                "end": 16,
+                "value": "打电话",
+                "category": "VID"
+            }
+        ]
+    },
+    {
+        "index": 1308,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 15,
+                "end": 17,
+                "value": "做好",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1310,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 9,
+                "end": 11,
+                "value": "拿去",
+                "category": "MVC"
+            },
+            {
+                "start": 2,
+                "end": 4,
+                "value": "做完",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1317,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 23,
+                "end": 25,
+                "value": "想到",
+                "category": "VPC.semi"
+            },
+            {
+                "start": 27,
+                "end": 29,
+                "value": "出来",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1320,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 21,
+                "end": 25,
+                "value": "无可挑剔",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 1328,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 13,
+                "end": 17,
+                "value": "赞不绝口",
+                "category": "IDI"
+            },
+            {
+                "start": 0,
+                "end": 2,
+                "value": "出来",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1329,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 21,
+                "end": 25,
+                "value": "满心欢喜",
+                "category": "IDI"
+            },
+            {
+                "start": 4,
+                "end": 6,
+                "value": "闺蜜",
+                "category": "NID"
+            },
+            {
+                "start": 11,
+                "end": 13,
+                "value": "闺蜜",
+                "category": "NID"
+            }
+        ]
+    },
+    {
+        "index": 1330,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 23,
+                "end": 26,
+                "value": "拍出来",
+                "category": "VPC.semi"
+            },
+            {
+                "start": 37,
+                "end": 41,
+                "value": "千篇一律",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 1332,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 56,
+                "end": 60,
+                "value": "拍摄出来",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1335,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 6,
+                "end": 8,
+                "value": "送到",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 1338,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 12,
+                "end": 14,
+                "value": "小白",
+                "category": "NID"
+            }
+        ]
+    },
+    {
+        "index": 1340,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 11,
+                "end": 13,
+                "value": "入坑",
+                "category": "VID"
+            }
+        ]
+    },
+    {
+        "index": 1345,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": [
+                    35,
+                    36
+                ],
+                "end": [
+                    39,
+                    41
+                ],
+                "value": [
+                    "做",
+                    "介绍"
+                ],
+                "category": "LVC.full"
+            }
+        ]
+    },
+    {
+        "index": 1350,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 72,
+                "end": 74,
+                "value": "解答",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 1352,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 57,
+                "end": 63,
+                "value": "进行交流沟通",
+                "category": "LVC.full"
+            }
+        ]
+    },
+    {
+        "index": 1355,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 3,
+                "end": 5,
+                "value": "说完",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1357,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 8,
+                "end": 10,
+                "value": "点赞",
+                "category": "VID"
+            }
+        ]
+    },
+    {
+        "index": 1358,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 32,
+                "end": 34,
+                "value": "点赞",
+                "category": "VID"
+            }
+        ]
+    },
+    {
+        "index": 1359,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 46,
+                "end": 49,
+                "value": "回头看",
+                "category": "MVC"
+            },
+            {
+                "start": 38,
+                "end": 42,
+                "value": "别无选择",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 1361,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 36,
+                "end": 40,
+                "value": "干干净净",
+                "category": "IDI"
+            },
+            {
+                "start": 41,
+                "end": 43,
+                "value": "看到",
+                "category": "VPC.semi"
+            },
+            {
+                "start": 51,
+                "end": 53,
+                "value": "竖起",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1364,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 10,
+                "end": 12,
+                "value": "留住",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1368,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 17,
+                "end": 21,
+                "value": "黯淡无光",
+                "category": "IDI"
+            },
+            {
+                "start": 30,
+                "end": 34,
+                "value": "溢放光彩",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 1374,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 31,
+                "end": 33,
+                "value": "达到",
+                "category": "VPC.semi"
+            },
+            {
+                "start": 19,
+                "end": 21,
+                "value": "长大",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1376,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 10,
+                "end": 12,
+                "value": "遇到",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1377,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 5,
+                "end": 8,
+                "value": "束缚住",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1378,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 9,
+                "end": 13,
+                "value": "坦然面对",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 1379,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 15,
+                "end": 19,
+                "value": "迎难而上",
+                "category": "IDI"
+            },
+            {
+                "start": 24,
+                "end": 28,
+                "value": "迎刃而解",
+                "category": "IDI"
+            },
+            {
+                "start": [
+                    1,
+                    2
+                ],
+                "end": [
+                    3,
+                    4
+                ],
+                "value": [
+                    "越",
+                    "越"
+                ],
+                "category": "CON"
+            }
+        ]
+    },
+    {
+        "index": 1391,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 1,
+                "end": 4,
+                "value": "问清楚",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1392,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 10,
+                "end": 12,
+                "value": "包起",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1415,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 74,
+                "end": 78,
+                "value": "进行设置",
+                "category": "LVC.full"
+            }
+        ]
+    },
+    {
+        "index": 1417,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 106,
+                "end": 110,
+                "value": "进行监督",
+                "category": "LVC.full"
+            }
+        ]
+    },
+    {
+        "index": 1424,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": [
+                    18,
+                    20
+                ],
+                "end": [
+                    23,
+                    25
+                ],
+                "value": [
+                    "起到",
+                    "作用"
+                ],
+                "category": "LVC.full"
+            },
+            {
+                "start": 1,
+                "end": 5,
+                "value": "实事求是",
+                "category": "IDI"
+            },
+            {
+                "start": [
+                    11,
+                    12
+                ],
+                "end": [
+                    16,
+                    19
+                ],
+                "value": [
+                    "在",
+                    "过程中"
+                ],
+                "category": "CON"
+            }
+        ]
+    },
+    {
+        "index": 1427,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 41,
+                "end": 45,
+                "value": "鱼龙混杂",
+                "category": "IDI"
+            },
+            {
+                "start": 55,
+                "end": 59,
+                "value": "趁虚而入",
+                "category": "IDI"
+            },
+            {
+                "start": 45,
+                "end": 49,
+                "value": "泥沙俱下",
+                "category": "IDI"
+            },
+            {
+                "start": [
+                    25,
+                    27
+                ],
+                "end": [
+                    29,
+                    31
+                ],
+                "value": [
+                    "导致",
+                    "动荡"
+                ],
+                "category": "LVC.cause"
+            }
+        ]
+    },
+    {
+        "index": 1431,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 65,
+                "end": 67,
+                "value": "扔掉",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1433,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 16,
+                "end": 20,
+                "value": "一根儿筋",
+                "category": "NID"
+            }
+        ]
+    },
+    {
+        "index": 1436,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 30,
+                "end": 32,
+                "value": "沦为",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 1437,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 3,
+                "end": 7,
+                "value": "渐行渐远",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 1441,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 6,
+                "end": 8,
+                "value": "点赞",
+                "category": "VID"
+            },
+            {
+                "start": 9,
+                "end": 11,
+                "value": "完事儿",
+                "category": "VID"
+            },
+            {
+                "start": [
+                    2,
+                    3
+                ],
+                "end": [
+                    4,
+                    5
+                ],
+                "value": [
+                    "看",
+                    "懂"
+                ],
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1446,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": [
+                    12,
+                    13
+                ],
+                "end": [
+                    14,
+                    15
+                ],
+                "value": [
+                    "越",
+                    "越"
+                ],
+                "category": "CON"
+            }
+        ]
+    },
+    {
+        "index": 1477,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": [
+                    18,
+                    20
+                ],
+                "end": [
+                    22,
+                    24
+                ],
+                "value": [
+                    "引起",
+                    "关注"
+                ],
+                "category": "LVC.cause"
+            },
+            {
+                "start": 70,
+                "end": 72,
+                "value": "接到",
+                "category": "VPC.semi"
+            },
+            {
+                "start": 15,
+                "end": 17,
+                "value": "热搜",
+                "category": "NID"
+            },
+            {
+                "start": [
+                    62,
+                    64
+                ],
+                "end": [
+                    66,
+                    68
+                ],
+                "value": [
+                    "发挥",
+                    "功能"
+                ],
+                "category": "LVC.full"
+            },
+            {
+                "start": 43,
+                "end": 45,
+                "value": "热搜",
+                "category": "NID"
+            },
+            {
+                "start": 60,
+                "end": 62,
+                "value": "热搜",
+                "category": "NID"
+            }
+        ]
+    },
+    {
+        "index": 1478,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 26,
+                "end": 30,
+                "value": "分秒不差",
+                "category": "IDI"
+            },
+            {
+                "start": 37,
+                "end": 39,
+                "value": "水军",
+                "category": "NID"
+            },
+            {
+                "start": 39,
+                "end": 41,
+                "value": "接到",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1480,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 34,
+                "end": 38,
+                "value": "无处遁形",
+                "category": "IDI"
+            },
+            {
+                "start": 8,
+                "end": 10,
+                "value": "抛开",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1481,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 19,
+                "end": 22,
+                "value": "挖出来",
+                "category": "VPC.semi"
+            },
+            {
+                "start": 4,
+                "end": 6,
+                "value": "留下",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1482,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 5,
+                "end": 7,
+                "value": "热搜",
+                "category": "NID"
+            }
+        ]
+    },
+    {
+        "index": 1495,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 4,
+                "end": 6,
+                "value": "送达",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1503,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 1,
+                "end": 4,
+                "value": "发送到",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 1504,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 1,
+                "end": 4,
+                "value": "打电话",
+                "category": "VID"
+            }
+        ]
+    },
+    {
+        "index": 1507,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 12,
+                "end": 15,
+                "value": "么么哒",
+                "category": "VID"
+            }
+        ]
+    },
+    {
+        "index": 1517,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 0,
+                "end": 2,
+                "value": "收到",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1521,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 7,
+                "end": 10,
+                "value": "打电话",
+                "category": "VID"
+            }
+        ]
+    },
+    {
+        "index": 1532,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 0,
+                "end": 2,
+                "value": "除去",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1533,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 20,
+                "end": 23,
+                "value": "讲清楚",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1534,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 13,
+                "end": 16,
+                "value": "表现出",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1535,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 0,
+                "end": 4,
+                "value": "无论如何",
+                "category": "IDI"
+            },
+            {
+                "start": 6,
+                "end": 10,
+                "value": "一口咬死",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 1536,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 2,
+                "end": 6,
+                "value": "推卸责任",
+                "category": "IDI"
+            },
+            {
+                "start": 20,
+                "end": 23,
+                "value": "都是泪",
+                "category": "NID"
+            }
+        ]
+    },
+    {
+        "index": 1538,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 9,
+                "end": 11,
+                "value": "坑爹",
+                "category": "VID"
+            }
+        ]
+    },
+    {
+        "index": 1541,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 20,
+                "end": 22,
+                "value": "收录",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 1547,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 10,
+                "end": 12,
+                "value": "收到",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1562,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 8,
+                "end": 11,
+                "value": "观测到",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1563,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 52,
+                "end": 54,
+                "value": "等到",
+                "category": "MVC"
+            },
+            {
+                "start": 56,
+                "end": 58,
+                "value": "落下",
+                "category": "VPC.semi"
+            },
+            {
+                "start": 7,
+                "end": 11,
+                "value": "进行观测",
+                "category": "LVC.full"
+            }
+        ]
+    },
+    {
+        "index": 1565,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 9,
+                "end": 12,
+                "value": "拍摄出",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1575,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 18,
+                "end": 21,
+                "value": "归功于",
+                "category": "CON"
+            },
+            {
+                "start": 0,
+                "end": 3,
+                "value": "之所以",
+                "category": "CON"
+            }
+        ]
+    },
+    {
+        "index": 1586,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 15,
+                "end": 17,
+                "value": "达到",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1589,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 80,
+                "end": 84,
+                "value": "一面之词",
+                "category": "IDI"
+            },
+            {
+                "start": 78,
+                "end": 80,
+                "value": "听信",
+                "category": "MVC"
+            },
+            {
+                "start": [
+                    0,
+                    1
+                ],
+                "end": [
+                    2,
+                    3
+                ],
+                "value": [
+                    "谈",
+                    "上"
+                ],
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1590,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 26,
+                "end": 29,
+                "value": "不得不",
+                "category": "CON"
+            }
+        ]
+    },
+    {
+        "index": 1597,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 28,
+                "end": 31,
+                "value": "涉及到",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1599,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 21,
+                "end": 24,
+                "value": "拍出来",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1600,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 0,
+                "end": 2,
+                "value": "拍好",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1614,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 11,
+                "end": 15,
+                "value": "提出补拍",
+                "category": "LVC.full"
+            }
+        ]
+    },
+    {
+        "index": 1615,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 19,
+                "end": 21,
+                "value": "贴出",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1619,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 33,
+                "end": 36,
+                "value": "弄出来",
+                "category": "VPC.semi"
+            },
+            {
+                "start": 0,
+                "end": 2,
+                "value": "选好",
+                "category": "VPC.semi"
+            },
+            {
+                "start": 20,
+                "end": 23,
+                "value": "小姐姐",
+                "category": "NID"
+            }
+        ]
+    },
+    {
+        "index": 1620,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 0,
+                "end": 2,
+                "value": "弄好",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1625,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 9,
+                "end": 12,
+                "value": "调查完",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1640,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 42,
+                "end": 44,
+                "value": "发出",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1651,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": [
+                    0,
+                    1
+                ],
+                "end": [
+                    3,
+                    6
+                ],
+                "value": [
+                    "在",
+                    "过程中"
+                ],
+                "category": "CON"
+            }
+        ]
+    },
+    {
+        "index": 1653,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": [
+                    56,
+                    57
+                ],
+                "end": [
+                    58,
+                    59
+                ],
+                "value": [
+                    "跟",
+                    "上"
+                ],
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1655,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 6,
+                "end": 9,
+                "value": "联系到",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1657,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 1,
+                "end": 4,
+                "value": "是不是",
+                "category": "CON"
+            }
+        ]
+    },
+    {
+        "index": 1659,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 7,
+                "end": 9,
+                "value": "放在",
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 1660,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 1,
+                "end": 3,
+                "value": "送错",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1663,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 2,
+                "end": 4,
+                "value": "买完",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1690,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 0,
+                "end": 2,
+                "value": "补回",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1691,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 5,
+                "end": 7,
+                "value": "记得",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1704,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 26,
+                "end": 30,
+                "value": "评头论足",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 1705,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 26,
+                "end": 28,
+                "value": "换来",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1710,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 4,
+                "end": 10,
+                "value": "公道自在人心",
+                "category": "VID"
+            }
+        ]
+    },
+    {
+        "index": 1714,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 0,
+                "end": 4,
+                "value": "会心一笑",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 1727,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 29,
+                "end": 33,
+                "value": "风土人情",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 1731,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 7,
+                "end": 9,
+                "value": "附上",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1750,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 26,
+                "end": 29,
+                "value": "准备好",
+                "category": "VPC.semi"
+            },
+            {
+                "start": 32,
+                "end": 34,
+                "value": "见到",
+                "category": "VPC.semi"
+            },
+            {
+                "start": [
+                    2,
+                    3
+                ],
+                "end": [
+                    5,
+                    7
+                ],
+                "value": [
+                    "下",
+                    "订单"
+                ],
+                "category": "LVC.full"
+            }
+        ]
+    },
+    {
+        "index": 1764,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 39,
+                "end": 43,
+                "value": "开怀畅饮",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 1770,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 13,
+                "end": 17,
+                "value": "寥寥无几",
+                "category": "IDI"
+            },
+            {
+                "start": 24,
+                "end": 27,
+                "value": "一般般",
+                "category": "NID"
+            }
+        ]
+    },
+    {
+        "index": 1777,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 2,
+                "end": 4,
+                "value": "送给",
+                "category": "MVC"
+            },
+            {
+                "start": [
+                    20,
+                    21
+                ],
+                "end": [
+                    22,
+                    23
+                ],
+                "value": [
+                    "拉",
+                    "到"
+                ],
+                "category": "MVC"
+            }
+        ]
+    },
+    {
+        "index": 1791,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 40,
+                "end": 44,
+                "value": "进行部署",
+                "category": "LVC.full"
+            }
+        ]
+    },
+    {
+        "index": 1811,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 0,
+                "end": 4,
+                "value": "不仅如此",
+                "category": "IDI"
+            },
+            {
+                "start": 55,
+                "end": 59,
+                "value": "实现变现",
+                "category": "LVC.full"
+            }
+        ]
+    },
+    {
+        "index": 1826,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": [
+                    9,
+                    10
+                ],
+                "end": [
+                    11,
+                    12
+                ],
+                "value": [
+                    "越",
+                    "越"
+                ],
+                "category": "CON"
+            }
+        ]
+    },
+    {
+        "index": 1827,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 5,
+                "end": 8,
+                "value": "不仅仅",
+                "category": "CON"
+            }
+        ]
+    },
+    {
+        "index": 1828,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 4,
+                "end": 7,
+                "value": "不仅仅",
+                "category": "CON"
+            },
+            {
+                "start": 7,
+                "end": 9,
+                "value": "看中",
+                "category": "VPC.semi"
+            }
+        ]
+    },
+    {
+        "index": 1845,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": [
+                    9,
+                    11
+                ],
+                "end": [
+                    13,
+                    15
+                ],
+                "value": [
+                    "作出",
+                    "决定"
+                ],
+                "category": "LVC.full"
+            }
+        ]
+    },
+    {
+        "index": 1846,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": [
+                    1,
+                    3
+                ],
+                "end": [
+                    7,
+                    9
+                ],
+                "value": [
+                    "作出",
+                    "决定"
+                ],
+                "category": "LVC.full"
+            },
+            {
+                "start": [
+                    38,
+                    40
+                ],
+                "end": [
+                    42,
+                    44
+                ],
+                "value": [
+                    "提起",
+                    "诉讼"
+                ],
+                "category": "LVC.full"
+            }
+        ]
+    },
+    {
+        "index": 1869,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 30,
+                "end": 34,
+                "value": "救死扶伤",
+                "category": "IDI"
+            }
+        ]
+    },
+    {
+        "index": 1870,
+        "property": "mwe",
+        "categories": [
+            {
+                "start": 4,
+                "end": 6,
+                "value": "得到",
+                "category": "VPC.semi"
+            }
+        ]
+    }
+]
