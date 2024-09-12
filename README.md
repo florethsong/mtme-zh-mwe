@@ -255,6 +255,31 @@ type, position , and content of present MWEs.
                 refA.txt
                 refB.txt
 ```
+
+## Citation
+Please cite the following paper if it is helpful to your work :)!
+```
+@inproceedings{song-xu-2024-benchmarking,
+    title = "Benchmarking the Performance of Machine Translation Evaluation Metrics with {C}hinese Multiword Expressions",
+    author = "Song, Huacheng  and
+      Xu, Hongzhi",
+    editor = "Calzolari, Nicoletta  and
+      Kan, Min-Yen  and
+      Hoste, Veronique  and
+      Lenci, Alessandro  and
+      Sakti, Sakriani  and
+      Xue, Nianwen",
+    booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+    month = may,
+    year = "2024",
+    address = "Torino, Italia",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.lrec-main.198",
+    pages = "2204--2216",
+}
+```
+
+
 ## References
 Markus Freitag, Ricardo Rei, Nitika Mathur, Chikiu Lo, Craig Stewart, Eleftherios Avramidis, Tom Kocmi, George Foster, Alon Lavie, and André F. T. Martins. 2022. [Results of WMT22 metrics shared task: Stop using BLEU - neural metrics are better and more robust](https://aclanthology.org/2022.wmt-1.2). In Proceedings of the Seventh Conference on Machine Translation (WMT), pages 46–68, Abu Dhabi, United Arab Emirates (Hybrid). Association for Computational Linguistics.  
 
