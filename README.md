@@ -12,9 +12,9 @@
  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  See the License for the specific language governing permissions and
  limitations under the License.-->
---
+---
 The dataset of WMT22 Metrics Shared Task extended with annotations of 28 types of Chinese Multiword Expressions (MWEs)
---
+---
 
 :pushpin:**9 types of non-NE MWE (MWEs#)**: noun-headed idiom (NID), separable word (or ionized word) (ION), four-character idiom (IDI), special construction (CON), verb-headed idiom (VID), semi non-compositional verb-particle construction (VPC.semi), light verb construction with bleached verb (LVC.full), light verb construction with causative verb (LVC.cause), and multi-verb construction (MVC) 
   
