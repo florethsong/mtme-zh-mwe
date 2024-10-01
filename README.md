@@ -278,7 +278,7 @@ Please cite the following paper if it is helpful to your work :)!
     pages = "2204--2216",
 }
 ```
-We publish this Chinese MWE-annotated dataset in our work above which focuses on the meta-evaluation of machine translation automatic evaluation metrics from the perspective of MWEs. Another work of ours tightly following it, also built on this extended dataset, pays more effort to a full evaluation of machine translation systems on rendering Chinese MWEs into English. If you are interested in it, you are welcome to find more details at: https://github.com/florethsong/mte-zh-mwe.
+P.S. We publish this Chinese MWE-annotated dataset in our work above which focuses on the meta-evaluation of machine translation automatic evaluation metrics from the perspective of MWEs. Another work of ours tightly following it, also built on this extended dataset, pays more effort to a full evaluation of machine translation systems on rendering Chinese MWEs into English. If you are interested, you can find more details at: https://github.com/florethsong/mte-zh-mwe.
 
 
 ## References
