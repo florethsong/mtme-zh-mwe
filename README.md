@@ -19,7 +19,7 @@ The dataset of WMT22 Metrics Shared Task extended with annotations of 28 types o
 
 :pushpin:**9 types of non-NE MWE (MWEs#)**: noun-headed idiom (NID), separable word (or ionized word) (ION), four-character idiom (IDI), special construction (CON), verb-headed idiom (VID), semi non-compositional verb-particle construction (VPC.semi), light verb construction with bleached verb (LVC.full), light verb construction with causative verb (LVC.cause), and multi-verb construction (MVC) 
   
-:pushpin:**19 types of named etities (NEs)**: person name (PERSON), nationality, religious, political or ethnic group (NORP), facility (FAC), organization (ORG), geopolitical entity (GPE), location (LOC), product (PRODUCT), event (EVENT), work of art (WORK_OF_ART, LAW), language (LANGUAGE), date (DATE), time (TIME), percent (PERCENT), money (MONEY), quantity (QUANTITY), ordinal (ORDINAL), cardinal (CARDINAL), terminology (TER)
+:pushpin:**19 types of named entities (NEs)**: person name (PERSON), nationality, religious, political or ethnic group (NORP), facility (FAC), organization (ORG), geopolitical entity (GPE), location (LOC), product (PRODUCT), event (EVENT), work of art (WORK_OF_ART, LAW), language (LANGUAGE), date (DATE), time (TIME), percent (PERCENT), money (MONEY), quantity (QUANTITY), ordinal (ORDINAL), cardinal (CARDINAL), terminology (TER)
 
 
 ### :card_index_dividers: Description of file structure
@@ -278,6 +278,7 @@ Please cite the following paper if it is helpful to your work :)!
     pages = "2204--2216",
 }
 ```
+We publish this Chinese MWE-annotated dataset in our work above which focuses on the meta-evaluation of machine translation automatic evaluation metrics from the perspective of MWEs. Another work of ours tightly following it, also built on this extended dataset, pays more effort to a full evaluation of machine translation systems on rendering Chinese MWEs into English. If you are interested in it, you are welcome to find more details at: https://github.com/florethsong/mte-zh-mwe.
 
 
 ## References
